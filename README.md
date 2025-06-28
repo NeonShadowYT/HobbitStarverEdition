@@ -1,9 +1,9 @@
 # hobbit-extended-edition
 
 
-#Changelist
+# Changelist
 
-##Dream World 
+## Dream World 
 - [x] Barricades blows up in part 2 
 - [x] Bolg has idle animation before cutscene starts
 - [x] Bilbo looks aroung during ambush cutscene
