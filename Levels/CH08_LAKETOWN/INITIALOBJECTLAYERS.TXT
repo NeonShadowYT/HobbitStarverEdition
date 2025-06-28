@@ -1,4 +1,4 @@
-[ Layers : 32 ]
+[ Layers : 33 ]
  { LayerName:s               }
 // -------------------------
    "CH08_EXT_Instances"     
@@ -34,3 +34,5 @@
    "CH08_Audio_Emitter"     
    "CH08_Pub_Vaden"         
    
+
+"FAKE_HOBBITS"

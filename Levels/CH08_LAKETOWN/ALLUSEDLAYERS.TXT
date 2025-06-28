@@ -1,4 +1,4 @@
-[ Layers : 91 ]
+[ Layers : 92 ]
  { LayerName:s                         }
 // -----------------------------------
    "CH08_AUDIO_EMITTER"               
@@ -96,3 +96,5 @@
    "CH08_WH3_ROPES"                   
    "CH08_WH3_WATER"                   
    
+
+"FAKE_HOBBITS"
