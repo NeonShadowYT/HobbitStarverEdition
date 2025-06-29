@@ -51,5 +51,7 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Restored sign regarding dwarf plaque
 - [x] Added fidget animation for Bilbo during first encounter with Bard
 - [ ] The npcs no longer stagger with no animation in multiple cutscenes
-- [x] Citizens have different skin textures 
+- [x] Citizens have different skin textures
+- [x] Ropes have proper lights
+- [x] Lights inside Rennar Warehouse recalculated (roof and platforms)   
 
