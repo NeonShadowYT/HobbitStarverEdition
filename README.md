@@ -27,5 +27,17 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Bilbo holds sting from the beggining of the level
 - [x] Broken minecart at the end of the level
 - [x] Removed invisible walls so you can swim at the end of the level
-- [ ] Add broken wood plankfor the crash ride end 
+- [ ] Add broken wood plankfor the crash ride end
+## Mirkwood
+- [x] Corwin no longer stands up during cutscenes
+- [ ] Fully fix corwin after you come back  
+- [x] Some save pedestals, chests and cape are not flying anymore
+- [x] Camps are not flying anymore 
+- [x] Spiders no longer climb on invisible wall near poisonous lake
+- [x] The sticking out part of rock from tree tunnel near the poison jump puzzle was removed
+- [x] Bilbo is using a sword during Wraith Lord cutscene
+- [x] Bilbo is always using sword when cutting ropes when he saves dwarves 
+- [x] Fixed one random flying tree sticks near the climb outside area
+- [x] Tree near Wraith Lord was moved and rotated 
+- [ ] All the parts of skybox are hidden near the climb outside area
 
