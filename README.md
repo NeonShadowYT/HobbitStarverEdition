@@ -47,4 +47,9 @@ This is a collection of patches and mods designed to restore cut content and com
 - [ ] Extended the dialog boxes when Bilbo tries to open gate without dwarves
 - [x] Cell openings won't stick out when unlocked
 - [ ] The npcs no longer stagger with no animation in multiple cutscenes
+## Lake Town
+- [x] Restored sign regarding dwarf plaque
+- [x] Added fidget animation for Bilbo during first encounter with Bard
+- [ ] The npcs no longer stagger with no animation in multiple cutscenes
+- [x] Citizens have different skin textures 
 
