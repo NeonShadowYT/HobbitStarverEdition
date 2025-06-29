@@ -38,6 +38,7 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Bilbo is using a sword during Wraith Lord cutscene
 - [x] Bilbo is always using sword when cutting ropes when he saves dwarves 
 - [x] Fixed one random flying tree sticks near the climb outside area
-- [x] Tree near Wraith Lord was moved and rotated 
+- [x] Tree near Wraith Lord was moved and rotated
+- [x] When you try to leave spider boss arena, the outsides are now loaded
 - [ ] All the parts of skybox are hidden near the climb outside area
 
