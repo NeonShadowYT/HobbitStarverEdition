@@ -41,4 +41,10 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Tree near Wraith Lord was moved and rotated
 - [x] When you try to leave spider boss arena, the outsides are now loaded
 - [ ] All the parts of skybox are hidden near the climb outside area
+## Barrels out of Bonds
+- [ ] FUCK THE FROG
+- [x] When Bilbo enters throne room he will run to the same point as cutscene starts as well as look around instead of idle standing
+- [ ] Extended the dialog boxes when Bilbo tries to open gate without dwarves
+- [x] Cell openings won't stick out when unlocked
+- [ ] The npcs no longer stagger with no animation in multiple cutscenes
 
