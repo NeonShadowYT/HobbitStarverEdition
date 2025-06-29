@@ -1,4 +1,4 @@
-[ Strings : 32 ]
+[ Strings : 33 ]
  { StringID:s                       }
 // --------------------------------
    "ID_BARREL_HINT"                
@@ -15,7 +15,8 @@
    "INFO_BORTANINFO"               
    "INFO_CIDERHOUSE_SIGN"          
    "INFO_CITY_WAREHOUSE_SIGN"      
-   "INFO_DWARF_PLAQUE"             
+   "INFO_DWARF_PLAQUE" 
+   "INFO_DWARF_PLAQUE2"     
    "INFO_GREATHALL_SIGN"           
    "INFO_KILLED_MONSTER"           
    "INFO_MALLOCSHOUSE_SIGN"        
