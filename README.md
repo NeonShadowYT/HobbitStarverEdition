@@ -27,7 +27,7 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Bilbo holds sting from the beggining of the level
 - [x] Broken minecart at the end of the level
 - [x] Removed invisible walls so you can swim at the end of the level
-- [ ] Add broken wood plankfor the crash ride end
+- [x] Add broken wood plankfor the crash ride end
 ## Mirkwood
 - [x] Corwin no longer stands up during cutscenes
 - [ ] Fully fix corwin after you come back  
