@@ -1,4 +1,4 @@
-# The Hobbit - Extended Edition
+# The Hobbit - Community Extended Edition
 
 This is a collection of patches and mods designed to restore cut content and complete unfinished details, fixes, and features that developers didn't have time to finalize.
 
