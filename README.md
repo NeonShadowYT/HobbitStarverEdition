@@ -54,4 +54,12 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Citizens have different skin textures
 - [x] Ropes have proper lights
 - [x] Lights inside Rennar Warehouse recalculated (roof and platforms)   
-
+## Smaug
+- [ ] Bilbo looks to Throrin after cutscene
+- [ ]  Bilbo looks at Smaug during Smaug intro cutscene
+- [ ]  Save pedestals do not fly
+- [ ]  Rock in the canyon moved
+- [ ]  Multiple chests do not fly
+- [ ]  Add collsion to broken pipe
+- [ ]  Ropes on stalacktites look better
+- [ ]  Removed waterfall after water rises 
