@@ -15,8 +15,8 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] All the cutscenes have character animations looped
 - [x] Hobbiton Man, Holbert and Kili do not fly anymore
 - [x] Recalculated lights inside the Bilbo's House
-- [ ] Saw has no texture from one side
-- [ ] Green BottomFeeder restored for PC (it was not showing up at all)
+- [x] Saw has no texture from one side
+- [x] Second fish restored for PC (it was not showing up at all)
 ## Roast Mutton
 - [x] Fixed a lot of flying clutter (plants)
 ## Troll Hole
@@ -42,7 +42,7 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Tree near Wraith Lord was moved and rotated
 - [x] When you try to leave spider boss arena, the outsides are now loaded
 - [ ] All the parts of skybox are hidden near the climb outside area
-- [ ] Green BottomFeeder restored for PC (it was not showing up at all)
+- [x] Second fish restored for PC (it was not showing up at all)
 ## Barrels out of Bonds
 - [ ] FUCK THE FROG
 - [x] When Bilbo enters throne room he will run to the same point as cutscene starts as well as look around instead of idle standing
