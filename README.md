@@ -18,6 +18,8 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Saw has no texture from one side
 - [x] Second fish restored for PC (it was not showing up at all)
 - [x] Sandyman cutscene extended with Bilbos cut line
+- [x] Fence do not fly is some areas anymore (near garden and carl)
+- [x] Fixed mouth of one of the female hobbit models to not look like a goat
 ## Roast Mutton
 - [x] Fixed a lot of flying clutter (plants)
 ## Troll Hole
