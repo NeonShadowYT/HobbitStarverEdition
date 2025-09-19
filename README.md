@@ -17,6 +17,7 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Recalculated lights inside the Bilbo's House
 - [x] Saw has no texture from one side
 - [x] Second fish restored for PC (it was not showing up at all)
+- [x] Sandyman cutscene extended with Bilbos cut line
 ## Roast Mutton
 - [x] Fixed a lot of flying clutter (plants)
 ## Troll Hole
