@@ -28,6 +28,7 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Added Sting behind the end gate
 ## Over Hill and Under Hill
 - [ ]
+- [ ]
 ## Riddles in the Dark
 - [x] Bilbo holds sting from the beggining of the level
 - [x] Broken minecart at the end of the level
