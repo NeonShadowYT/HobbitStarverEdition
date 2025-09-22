@@ -1,4 +1,4 @@
-[ Strings : 28 ]
+[ Strings : 29 ]
  { StringID:s                   }
 // ----------------------------
    "AA_ID_DREAM_MAIN_QUEST"    
@@ -21,6 +21,7 @@
    "M_ID_EGGS_CH01"            
    "N_ID_APPLES_CH01"          
    "O_ID_FLOUR_CH01"           
+   "O_ID_SAUSAGES_CH01"    
    "P_ID_TEACAKES_CH01"        
    "Q_ID_CHESTS_CH01"          
    "R_ID_SCARECROWS_CH01"      

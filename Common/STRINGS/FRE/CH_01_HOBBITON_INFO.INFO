@@ -1,4 +1,4 @@
-[ Strings : 62 ]
+[ Strings : 64 ]
  { StringID:s                       }
 // --------------------------------
    "ID_QUEST_LOG_UPDATE"           
@@ -48,6 +48,7 @@
    "INFO_ROCK_THROWING"            
    "INFO_ROCK_THROWING_PS2"        
    "INFO_ROCK_THROWING_XBOX"       
+   "INFO_SAUSAGES_AQUIRED"    
    "INFO_SAVE_PED"                 
    "INFO_SILVER_PENNIES"           
    "INFO_SNEAK_HOLMAN"             
@@ -63,4 +64,5 @@
    "INFO_THROWING_STONES_XBOX"     
    "INFO_WALKINGSTICK_AQUIRED"     
    "INFO_WHEATSACK_AQUIRED"        
+   "INFO_WHEAT_AQUIRED"       
    
