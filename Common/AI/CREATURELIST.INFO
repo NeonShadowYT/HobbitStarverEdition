@@ -85,7 +85,7 @@
 "Thorin"			"Dwarf"		        "Thorin"			"DeathEffect"			"EnemyDeathFade"		"Aggressive"	1000.0          0               "NONE"			"NONE"			"NONE"			"NONE"			"NONE"			1.0		450.0			1.0				0.05			45.0			0
 "Corwin"			"Corwin"		    "Corwin"			"DeathEffect"			"EnemyDeathFade"		"Aggressive"	1000.0          0               "NONE"			"bow_man"		"NONE"			"NONE"			"NONE"			1.0		650.0			1.0				0.05			50.0			0
 "Balfour"			"Balfour"			"Balfour"			"DeathEffect"			"EnemyDeathFade"		"Average"		1000.0          0               "NONE"			"NONE"			"NONE"			"NONE"			"NONE"			1.00	650.0			1.0				0.05			45.0			0
-"Wallet"			"IdleOnly"			"Wallet"			"DeathEffect"			"EnemyDeathFade"		"Aggressive"	1000.0          0               "NONE"			"NONE"			"NONE"			"NONE"			"NONE"			1.0		350.0			1.0				0.0				0.0			    0
+"Wallet"			"Wallet"			"Wallet"			"DeathEffect"			"EnemyDeathFade"		"Aggressive"	1000.0          0               "NONE"			"NONE"			"NONE"			"NONE"			"NONE"			1.0		350.0			1.0				0.0				0.0			    0
 "TrollTom"			"Troll"		        "TrollTom"			"DeathEffect"			"EnemyDeathFade"		"Aggressive"	1000.0          0               "rock_troll"	"NONE"			"NONE"			"rock_troll"	"rock_troll"	1.0		550.0			1.0				0.02			100.0			0
 "TrollWilliam"		"Troll"		        "TrollWilliam"		"DeathEffect"			"EnemyDeathFade"		"Aggressive"	1000.0          0               "rock_troll"	"NONE"			"NONE"			"rock_troll"	"rock_troll"	1.0		550.0			1.0				0.02			100.0			0
 
