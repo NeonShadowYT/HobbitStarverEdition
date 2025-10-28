@@ -20,7 +20,10 @@ This is a collection of patches and mods designed to restore cut content and com
 - [x] Sandyman cutscene extended with Bilbos cut line
 - [x] Fence do not fly is some areas anymore (near garden and carl)
 - [x] Fixed mouth of one of the female hobbit models to not look like a goat
-- [x] No more sliding near Bilbos garden 
+- [x] No more sliding near Bilbos garden
+- [ ] Restored quest with wheat and sandyman
+- [x] Some kids are playing in the meantime
+- [x] New small cutscene: Bilbo talks near apple orchard
 ## Roast Mutton
 - [x] Fixed a lot of flying clutter (plants)
 ## Troll Hole
@@ -60,7 +63,8 @@ This is a collection of patches and mods designed to restore cut content and com
 - [ ] The npcs no longer stagger with no animation in multiple cutscenes
 - [x] Citizens have different skin textures
 - [x] Ropes have proper lights
-- [x] Lights inside Rennar Warehouse recalculated (roof and platforms)   
+- [x] Lights inside Rennar Warehouse recalculated (roof and platforms)
+- [ ] Add some patrolling guards?
 ## Smaug
 - [ ] Bilbo looks to Throrin after cutscene
 - [ ]  Bilbo looks at Smaug during Smaug intro cutscene
