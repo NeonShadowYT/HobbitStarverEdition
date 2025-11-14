@@ -2,6 +2,9 @@
 
 This is a collection of patches and mods designed to restore cut content and complete unfinished details, fixes, and features that developers didn't have time to finalize.
 
+## Join our Discord
+<img width="2048" height="512" alt="banner 3" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f" />
+
 # Changelist
 
 ## Dream World 
@@ -73,4 +76,7 @@ This is a collection of patches and mods designed to restore cut content and com
 - [ ]  Multiple chests do not fly
 - [ ]  Add collsion to broken pipe
 - [ ]  Ropes on stalacktites look better
-- [ ]  Removed waterfall after water rises 
+- [ ]  Removed waterfall after water rises
+
+
+
