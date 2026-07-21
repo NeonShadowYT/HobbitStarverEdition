@@ -31,13 +31,10 @@
 > Один из восстановленных квестов пока не имеет русской озвучки и локализации (он был вырезан из игры). Сообщество обещает добавить их в будущем — в остальном версия полностью играбельна.
 
 ## ⭐ Поддержи проект!
-Если тебе понравилась эта сборка, не забудь **поставить звёздочку** на GitHub - это помогает проекту развиваться и привлекает внимание сообщества.
-
-<div align="center">
-  <a href="https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers">
-    <img src="https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=social" alt="GitHub stars">
-  </a>
-</div>
+Если тебе понравилась эта сборка, не забудь **поставить звёздочку** на GitHub - это помогает проекту развиваться и привлекает внимание сообщества. 
+<a href="https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers">
+  <img src="https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=social" alt="GitHub stars">
+</a>
 
 ## 🗺️ Список изменений
 
