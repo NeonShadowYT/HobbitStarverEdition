@@ -181,6 +181,7 @@
 > Игра находится в активной разработке, но уже доступна для тестирования. Присоединяйся, чтобы повлиять на её развитие!
 
 <div align="center">
+  
 [![Starve Neon Site](https://img.shields.io/badge/%20Starve%20Neon%20Website-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
 [![Play on Itch.io](https://img.shields.io/badge/%20Play%20on%20Itch.io-ff5e5e?style=for-the-badge&logo=itch.io&logoColor=white)](https://neon-imperium.itch.io/starve-neon)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeonShadow-neon)
