@@ -1,82 +1,193 @@
-# The Hobbit - Community Extended Edition
+# 🧙 ХОББИТ 2003 — Starver Edition
 
-This is a collection of patches and mods designed to restore cut content and complete unfinished details, fixes, and features that developers didn't have time to finalize.
+<div align="center">
 
-## Join our Discord
-<img width="2048" height="512" alt="banner 3" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f" />
+[![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wh9EaFmdfa)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeonShadow-neon)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeonShindowsYT)
 
-# Changelist
+</div>
 
-## Dream World 
-- [x] Barricades blows up in part 2 
-- [x] Bolg has idle animation before cutscene starts
-- [x] Bilbo looks aroung during ambush cutscene
-- [x] Bagend has fire at fireplace
-- [ ] Changed camerapath so bilbo is always rendered during intro cutscene
-## Hobbiton 
-- [x] Bagend has fire at fireplace
-- [x] All the cutscenes have character animations looped
-- [x] Hobbiton Man, Holbert and Kili do not fly anymore
-- [x] Recalculated lights inside the Bilbo's House
-- [x] Saw has no texture from one side
-- [x] Second fish restored for PC (it was not showing up at all)
-- [x] Sandyman cutscene extended with Bilbos cut line
-- [x] Fence do not fly is some areas anymore (near garden and carl)
-- [x] Fixed mouth of one of the female hobbit models to not look like a goat
-- [x] No more sliding near Bilbos garden
-- [ ] Restored quest with wheat and sandyman
-- [x] Some kids are playing in the meantime
-- [x] New small cutscene: Bilbo talks near apple orchard
-## Roast Mutton
-- [x] Fixed a lot of flying clutter (plants)
-## Troll Hole
-- [x] Some chests positions slightly changed to not overlap the floor
-- [x] Added Sting behind the end gate
-## Over Hill and Under Hill
-- [ ]
-- [ ]
-## Riddles in the Dark
-- [x] Bilbo holds sting from the beggining of the level
-- [x] Broken minecart at the end of the level
-- [x] Removed invisible walls so you can swim at the end of the level
-- [x] Add broken wood plankfor the crash ride end
-## Mirkwood
-- [x] Corwin no longer stands up during cutscenes
-- [ ] Fully fix corwin after you come back  
-- [x] Some save pedestals, chests and cape are not flying anymore
-- [x] Camps are not flying anymore 
-- [x] Spiders no longer climb on invisible wall near poisonous lake
-- [x] The sticking out part of rock from tree tunnel near the poison jump puzzle was removed
-- [x] Bilbo is using a sword during Wraith Lord cutscene
-- [x] Bilbo is always using sword when cutting ropes when he saves dwarves 
-- [x] Fixed one random flying tree sticks near the climb outside area
-- [x] Tree near Wraith Lord was moved and rotated
-- [x] When you try to leave spider boss arena, the outsides are now loaded
-- [ ] All the parts of skybox are hidden near the climb outside area
-- [x] Second fish restored for PC (it was not showing up at all)
-## Barrels out of Bonds
-- [ ] FUCK THE FROG
-- [x] When Bilbo enters throne room he will run to the same point as cutscene starts as well as look around instead of idle standing
-- [ ] Extended the dialog boxes when Bilbo tries to open gate without dwarves
-- [x] Cell openings won't stick out when unlocked
-- [ ] The npcs no longer stagger with no animation in multiple cutscenes
-## Lake Town
-- [x] Restored sign regarding dwarf plaque
-- [x] Added fidget animation for Bilbo during first encounter with Bard
-- [ ] The npcs no longer stagger with no animation in multiple cutscenes
-- [x] Citizens have different skin textures
-- [x] Ropes have proper lights
-- [x] Lights inside Rennar Warehouse recalculated (roof and platforms)
-- [ ] Add some patrolling guards?
-## Smaug
-- [ ] Bilbo looks to Throrin after cutscene
-- [ ]  Bilbo looks at Smaug during Smaug intro cutscene
-- [ ]  Save pedestals do not fly
-- [ ]  Rock in the canyon moved
-- [ ]  Multiple chests do not fly
-- [ ]  Add collsion to broken pipe
-- [ ]  Ropes on stalacktites look better
-- [ ]  Removed waterfall after water rises
+## 📜 Описание
 
+**Starver Edition** - это улучшенная и дополненная версия игры **«Хоббит» (2003)**, созданная на основе последней официальной русской версии. **[Быстрое скачивание](https://github.com/NeonShadowYT/HobbitStarverEdition/archive/refs/heads/main.zip)**
 
+В сборку интегрирован **[Community Extended Edition](https://github.com/hobbit-kingdom/hobbit-extended-edition)** — масштабный мод, восстанавливающий вырезанный контент: расширенные уровни, боссы, противники, квесты и многое другое. 
 
+Поверх этого наложены личные исправления, улучшения звука и локализации, а также качественный **[Ретекстур](https://www.mediafire.com/folder/zpbfsei529ov2/The+Hobbit+Remastered+(PC))** от fffathur (с починкой битых текстур).
+
+<a href="https://discord.gg/Wh9EaFmdfa">
+  <img width="2048" height="512" alt="Discord banner" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f"/>
+</a>
+
+**Мой вклад:**
+- Помощь разработчикам Extended Edition в исправлении вылета на одном из уровней.
+- Исправлены отсутствующие или некорректные аудио и текст локализации.
+- Установка и доработка ретекстура (устранены артефакты и битые текстуры).
+- Тщательное тестирование всей игры с акцентом на «мелочи» — сборка готова для комфортного прохождения без серьёзных багов.
+
+> [!NOTE]
+> Один из восстановленных квестов пока не имеет русской озвучки и локализации (он был вырезан из игры). Сообщество обещает добавить их в будущем — в остальном версия полностью играбельна.
+
+> [!NOTE]
+> Ещё разрабатывается, чтобы поддерживать игру в актуальном состоянии и не перекачивать все каждый раз, используй **[GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)** добавь этот репозиторий используя его ссылку, жми Fetch origin чтобы обновить только все измененные файлы.
+> Это так-же можно использовать для помощи в разработке.
+
+## ⭐ Поддержи проект!
+Если тебе понравилась эта сборка, не забудь **поставить звёздочку** на GitHub - это помогает проекту развиваться и привлекает внимание сообщества. 
+<a href="https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers">
+  <img src="https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=social" alt="GitHub stars">
+</a>
+
+## 🗺️ Список изменений
+
+> Полный список нововведений и исправлений, основанный на **Community Extended Edition**, с дополнениями.
+
+<details>
+<summary><strong>🌙 Мир снов (Dream World)</strong></summary>
+
+- [x] Баррикады взрываются во второй части
+- [x] У Болга есть анимация бездействия перед началом кат-сцены
+- [x] Бильбо оглядывается во время кат-сцены засады
+- [x] В Бэг-Энде горит камин
+- [ ] Изменён путь камеры, чтобы Бильбо всегда отображался во время вступительной кат-сцены
+
+</details>
+
+<details>
+<summary><strong>🏡 Хоббитон (Hobbiton)</strong></summary>
+
+- [x] В Бэг-Энде горит камин
+- [x] Во всех кат-сценах зациклены анимации персонажей
+- [x] Житель Хоббитона, Хольберт и Кили больше не летают
+- [x] Пересчитано освещение внутри дома Бильбо
+- [x] У пилы отсутствовала текстура с одной стороны — исправлено
+- [x] Вторая рыба восстановлена для ПК (раньше она вообще не появлялась)
+- [x] Кат-сцена с Сэндиманом расширена — добавлена вырезанная реплика Бильбо
+- [x] Забор больше не летает в некоторых местах (возле сада и Карла)
+- [x] Исправлен рот одной из моделей женщин-хоббитов, чтобы она не выглядела как коза
+- [x] Устранено скольжение возле сада Бильбо
+- [ ] Восстановлен квест с пшеницей и Сэндиманом
+- [x] Дети играют во время прохождения
+- [x] Новая короткая кат-сцена: Бильбо разговаривает возле яблоневого сада
+
+</details>
+
+<details>
+<summary><strong>🍖 Жаркое из баранины (Roast Mutton)</strong></summary>
+
+- [x] Исправлено множество летающих объектов (растения)
+
+</details>
+
+<details>
+<summary><strong>🕳️ Логово троллей (Troll Hole)</strong></summary>
+
+- [x] Положение некоторых сундуков слегка изменено, чтобы они не перекрывали пол
+- [x] Добавлен Жало за финальными воротами
+
+</details>
+
+<details>
+<summary><strong>⛰️ За горой и под горой (Over Hill and Under Hill)</strong></summary>
+
+*(пунктов пока нет)*
+
+</details>
+
+<details>
+<summary><strong>🕯️ Загадки в темноте (Riddles in the Dark)</strong></summary>
+
+- [x] Бильбо держит Жало с самого начала уровня
+- [x] Сломанная вагонетка в конце уровня
+- [x] Убраны невидимые стены, чтобы можно было плавать в конце уровня
+- [x] Добавлена сломанная деревянная доска для финального спуска
+
+</details>
+
+<details>
+<summary><strong>🌲 Лихолесье (Mirkwood)</strong></summary>
+
+- [x] Корвин больше не встаёт во время кат-сцен
+- [ ] Полностью исправить Корвина после возвращения
+- [x] Некоторые постаменты сохранений, сундуки и плащ больше не летают
+- [x] Лагеря больше не летают
+- [x] Пауки больше не забираются на невидимую стену возле ядовитого озера
+- [x] Удалена торчащая часть скалы из древесного туннеля возле головоломки с прыжками над ядом
+- [x] Во время кат-сцены с Владыкой-призраком Бильбо использует меч
+- [x] Бильбо всегда использует меч, когда перерезает верёвки, спасая гномов
+- [x] Исправлены случайные летающие палки возле зоны подъёма на улице
+- [x] Дерево возле Владыки-призрака перемещено и повёрнуто
+- [x] При попытке выйти из арены босса-паука внешняя область теперь загружается
+- [ ] Все части небосвода скрыты возле зоны подъёма на улице
+- [x] Вторая рыба восстановлена для ПК (раньше она вообще не появлялась)
+
+</details>
+
+<details>
+<summary><strong>🛢️ Бочки без связей (Barrels out of Bonds)</strong></summary>
+
+- [ ] К ЧЕРТУ ЛЯГУШКУ!
+- [x] Когда Бильбо входит в тронный зал, он бежит к той же точке, где начинается кат-сцена, а также оглядывается вместо того, чтобы стоять без дела
+- [ ] Расширены диалоговые окна, когда Бильбо пытается открыть ворота без гномов
+- [x] Отверстия в камерах больше не торчат, когда они открыты
+- [ ] В нескольких кат-сценах NPC больше не застывают без анимации
+
+</details>
+
+<details>
+<summary><strong>🌊 Озёрный город (Lake Town)</strong></summary>
+
+- [x] Восстановлена вывеска, касающаяся таблички с гномами
+- [x] Добавлена анимация беспокойства для Бильбо во время первой встречи с Бардом
+- [ ] В нескольких кат-сценах NPC больше не застывают без анимации
+- [x] У горожан разные текстуры кожи
+- [x] У верёвок корректное освещение
+- [x] Пересчитано освещение внутри склада Реннара (крыша и платформы)
+- [ ] Добавить патрульную стражу?
+
+</details>
+
+<details>
+<summary><strong>🐉 Смауг (Smaug)</strong></summary>
+
+- [ ] Бильбо смотрит на Трорина после кат-сцены
+- [ ] Бильбо смотрит на Смауга во время вступительной кат-сцены
+- [ ] Постаменты сохранений не летают
+- [ ] Скала в каньоне перемещена
+- [ ] Некоторые сундуки не летают
+- [ ] Добавлена коллизия для сломанной трубы
+- [ ] Верёвки на сталактитах выглядят лучше
+- [ ] Убран водопад после подъёма воды
+
+</details>
+
+## 🔗 Полезные ссылки
+
+- [Оригинальная версия](https://github.com/hobbit-kingdom/hobbit-versions/releases/tag/Russian_Unpacked)
+- [Расширенная версия](https://github.com/hobbit-kingdom/hobbit-extended-edition)
+- [Другие игры](https://neonshadowyt.github.io/NeonImperium/)
+
+## 🎮 Starve Neon - Моя игра
+
+<div align="center">
+  <img src="https://img.itch.zone/aW1nLzI2MTc1MTAzLmdpZg==/original/ZSdakp.gif" width="100%" alt="Starve Neon Banner">
+</div>
+
+Я **Neon Shadow**, независимый разработчик из России. Помимо Hobbit Starver Edition, я создаю собственный многопользовательский выживач в стиле *Escape from Tarkov*, *Rust* и *ARC Riders*, но с яркой стилизованной графикой в духе *Starve.io*.  
+
+> Игра находится в активной разработке, но уже доступна для тестирования. Присоединяйся, чтобы повлиять на её развитие!
+
+<div align="center">
+  
+[![Starve Neon Site](https://img.shields.io/badge/%20Starve%20Neon%20Website-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
+[![Play on Itch.io](https://img.shields.io/badge/%20Play%20on%20Itch.io-ff5e5e?style=for-the-badge&logo=itch.io&logoColor=white)](https://neon-imperium.itch.io/starve-neon)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeonShadow-neon)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeonShindowsYT)
+</div>
+
+<div align="center">
+  <sub>Создано с ❤️ для хоббитов</sub>
+</div>
