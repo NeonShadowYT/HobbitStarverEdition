@@ -16,7 +16,7 @@
 
 В сборку интегрирован **[Community Extended Edition](https://github.com/hobbit-kingdom/hobbit-extended-edition)** — масштабный мод, восстанавливающий вырезанный контент: расширенные уровни, боссы, противники, квесты и многое другое. 
 
-Поверх этого наложены личные исправления, улучшения звука и локализации, а также качественный ретекстур от другого автора (с починкой битых текстур).
+Поверх этого наложены личные исправления, улучшения звука и локализации, а также качественный **[Ретекстур](https://www.mediafire.com/folder/zpbfsei529ov2/The+Hobbit+Remastered+(PC))** от fffathur (с починкой битых текстур).
 
 <a href="https://discord.gg/Wh9EaFmdfa">
   <img width="2048" height="512" alt="Discord banner" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f"/>
