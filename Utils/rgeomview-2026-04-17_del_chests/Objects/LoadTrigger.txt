@@ -1,0 +1,14 @@
+[ LoadTrigger : 1 ]
+ { GUID:s              Teleport:d DoesCameraColl:d DoesCameraFade:d LightChannels:d ObjectFlags:d ScriptResource:s InitialPos:fff                     Orientation:fff            LocalBoundingBox:ffffff                                        ObjSaveFlag:d ObjName:s     Name:s        Pos:fff                            BBox:ffffff                                                           Orient:fff                 HalfDimensions:fff            Pain:s }
+   "0D8AD451_F3BD3801" 0          1                1                1               433           ""               2450.093018 831.985657 3037.052734 0.000000 0.000000 0.000000 -50.000000 -50.000000 -50.000000 50.000000 50.000000 50.000000 0             "LoadTrigger" "LoadTrigger" 2450.093018 831.985657 3037.052734 2400.093018 781.985657 2987.052734 2500.093018 881.985657 3087.052734 0.000000 0.000000 0.000000 50.000000 50.000000 50.000000 "none" 
+[ LoadLayers : 0 ]
+ { Layer:s                         }
+
+[ UnloadLayer : 0 ]
+ { UnloadLayer:s                 }
+          
+[ LoadResources : 0 ]
+ { LoadResources:s                  }
+    
+[ UnloadResources : 0 ]
+ { UnloadResources:s             }
