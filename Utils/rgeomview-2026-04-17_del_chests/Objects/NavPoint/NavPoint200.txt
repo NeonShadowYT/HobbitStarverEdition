@@ -1,3 +1,0 @@
-[ NavPoint : 1 ]
- { GUID:s              JumpToTarget:g    NavFlags:d Pos:fff                             Radius:f   DoesCameraColl:d DoesCameraFade:d LightChannels:d ObjectFlags:d ScriptResource:s InitialPos:fff                      Orientation:fff            LocalBoundingBox:ffffff                                              ObjSaveFlag:d ObjName:s     }
-   "0D8ADD11_16A51C01" 00000000_00000000 0          -1120.023682 -399.442810 686.419922 200.000000 1                1                1               436           ""               -1120.023682 -399.442810 686.419922 0.000000 0.000000 0.000000 -149.425293 -149.425293 -149.425293 149.425293 149.425278 149.425293 0             "Nav 000" 
