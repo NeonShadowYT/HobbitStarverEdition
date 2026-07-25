@@ -169,9 +169,11 @@
 
 ## 🔗 Полезные ссылки
 
-- [Оригинальная версия](https://github.com/hobbit-kingdom/hobbit-versions/releases/tag/Russian_Unpacked)
-- [Расширенная версия](https://github.com/hobbit-kingdom/hobbit-extended-edition)
-- [Другие игры](https://neonshadowyt.github.io/NeonImperium/)
+[![Оригинальная версия](https://img.shields.io/badge/%20Оригинальная%20версия%20-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hobbit-kingdom/hobbit-versions/releases/tag/Russian_Unpacked)
+
+[![Расширенная версия](https://img.shields.io/badge/%20Расширенная%20версия%20-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hobbit-kingdom/hobbit-extended-edition)
+
+[![Другие игры](https://img.shields.io/badge/%20Другие%20Игры%20-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/)
 
 ## 🎮 Starve Neon - Моя игра
 
@@ -185,7 +187,7 @@
 
 <div align="center">
   
-[![Starve Neon Site](https://img.shields.io/badge/%20Starve%20Neon%20Website-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
+[![Starve Neon Site](https://img.shields.io/badge/%20Starve%20Neon%20-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
 [![Play on Itch.io](https://img.shields.io/badge/%20Play%20on%20Itch.io-ff5e5e?style=for-the-badge&logo=itch.io&logoColor=white)](https://neon-imperium.itch.io/starve-neon)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeonShadow-neon)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeonShindowsYT)
