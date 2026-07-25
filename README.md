@@ -38,9 +38,8 @@
 
 ## ⭐ Поддержи проект!
 Если тебе понравилась эта сборка, не забудь **поставить звёздочку** на GitHub - это помогает проекту развиваться и привлекает внимание сообщества. 
-<a href="https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers">
-  <img src="https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=social" alt="GitHub stars">
-</a>
+
+[![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers)
 
 ## 🗺️ Список изменений
 
