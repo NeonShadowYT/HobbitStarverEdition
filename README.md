@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
 ![GitHub repo size](https://img.shields.io/github/repo-size/NeonShadowYT/HobbitStarverEdition?style=for-the-badge&logo=github&label=Size&color=282c34)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wh9EaFmdfa)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeonShadow-neon)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2pH2qNfh2sEAeYEGs1k_Lg?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=FF0000&color=282c34)](https://www.youtube.com/@NeonShadow-neon)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeonShindowsYT)
 
 </div>
@@ -204,7 +204,7 @@
   
 [![Starve Neon Site](https://img.shields.io/badge/%20Starve%20Neon%20-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
 [![Play on Itch.io](https://img.shields.io/badge/%20Play%20on%20Itch.io-ff5e5e?style=for-the-badge&logo=itch.io&logoColor=white)](https://neon-imperium.itch.io/starve-neon)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeonShadow-neon)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2pH2qNfh2sEAeYEGs1k_Lg?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=FF0000&color=282c34)](https://www.youtube.com/@NeonShadow-neon)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeonShindowsYT)
 </div>
 
