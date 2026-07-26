@@ -24,9 +24,13 @@
 
 Поверх этого наложены личные исправления, улучшения звука и локализации, а также качественный **[Ретекстур](https://www.mediafire.com/folder/zpbfsei529ov2/The+Hobbit+Remastered+(PC))** от fffathur (с починкой битых текстур).
 
+<div align="center">
+  
 <a href="https://discord.gg/Wh9EaFmdfa">
-  <img width="2048" height="512" alt="Discord banner" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f"/>
+  <img width="700" alt="Discord banner" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f"/>
 </a>
+
+</div>
 
 **Мой вклад:**
 - Помощь разработчикам Extended Edition в исправлении вылета 🍖 Жаркое из баранины, а так-же диалога с Торином в ⛰️ В гору и под гору
