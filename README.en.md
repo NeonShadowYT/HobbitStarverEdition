@@ -22,7 +22,7 @@
 
 The build integrates the [![Extended Edition](https://img.shields.io/badge/%20Extended%20Edition-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-extended-edition) a community release that restores cut content: expanded levels, bosses, enemies, quests, and much more.
 
-On top of that, I've added my own fixes, sound and localization improvements, as well as the high-quality [![Ретекстур](https://img.shields.io/badge/Retexture-2d2f48?style=for-the-badge&logo=mediafire&logoColor=white&)](https://www.mediafire.com/folder/zpbfsei529ov2/The+Hobbit+Remastered+(PC))** by fffathur (with broken textures fixed).
+On top of that, I've added my own fixes, sound and localization improvements, as well as the high-quality [![Ретекстур](https://img.shields.io/badge/Retexture-2d2f48?style=for-the-badge&logo=mediafire&logoColor=white&)](https://www.mediafire.com/folder/zpbfsei529ov2/The+Hobbit+Remastered+(PC)) by fffathur (with broken textures fixed).
 
 
 <div align="center">
