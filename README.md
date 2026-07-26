@@ -45,11 +45,15 @@
 > Ещё разрабатывается, чтобы поддерживать игру в актуальном состоянии и не перекачивать все каждый раз, используй **[GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)** добавь этот репозиторий используя его ссылку, жми Fetch origin чтобы обновить только все измененные файлы.
 > Это так-же можно использовать для помощи в разработке.
 
+<div align="center">
+  
 ## ⭐ Поддержи проект!
 Если тебе понравилась эта сборка, не забудь **поставить звёздочку** на GitHub - это помогает проекту развиваться и привлекает внимание сообщества. 
 
 [![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers)
 [![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
+
+</div>
 
 ## 🗺️ Список изменений
 
