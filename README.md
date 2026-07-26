@@ -40,6 +40,7 @@
 Если тебе понравилась эта сборка, не забудь **поставить звёздочку** на GitHub - это помогает проекту развиваться и привлекает внимание сообщества. 
 
 [![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
 
 ## 🗺️ Список изменений
 
@@ -199,7 +200,7 @@
 Я **Neon Shadow**, независимый разработчик из России. Помимо Hobbit Starver Edition, я создаю собственный многопользовательский выживач в стиле *Escape from Tarkov*, *Rust* и *ARC Riders*, но с яркой стилизованной графикой в духе *Starve.io*.  
 
 > Игра находится в активной разработке, но уже доступна для тестирования. Присоединяйся, чтобы повлиять на её развитие!
-
+> 
 <div align="center">
   
 [![Starve Neon Site](https://img.shields.io/badge/%20Starve%20Neon%20-1a1b2f?style=for-the-badge&logo=github&logoColor=white)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
