@@ -49,7 +49,7 @@ On top of that, I've added my own fixes, sound and localization improvements, as
 <div align="center">
   
 ## ⭐ Support the Project
-If you enjoyed this build, don't forget to **star** it on GitHub — it helps the project grow and attracts community attention.
+If you enjoyed this build, don't forget to **star** it on GitHub - it helps the project grow and attracts community attention.
 
 [![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers)
 [![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
@@ -79,9 +79,9 @@ If you enjoyed this build, don't forget to **star** it on GitHub — it helps th
 - [x] Character animations loop in all cutscenes
 - [x] Hobbiton resident, Holbert, and Kili no longer float
 - [x] Lighting inside Bilbo's house recalculated
-- [x] Saw missing texture on one side — fixed
+- [x] Saw missing texture on one side - fixed
 - [x] Second fish restored for PC (it never appeared before)
-- [x] Cutscene with Sandyman expanded — added cut Bilbo line
+- [x] Cutscene with Sandyman expanded - added cut Bilbo line
 - [x] Fence no longer floats in some spots (near the garden and Carl)
 - [x] Fixed the mouth of one female hobbit model so she doesn't look like a goat
 - [x] Slipping near Bilbo's garden fixed
@@ -212,8 +212,8 @@ If you enjoyed this build, don't forget to **star** it on GitHub — it helps th
 | Tool | What it does |
 |------|--------------|
 | [![Icon Creator](https://img.shields.io/badge/Icon%20Creator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/IconCreator) | Create icons from 3D models right in the Unity editor. |
-| [![World Generator](https://img.shields.io/badge/World%20Generator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Rule-based prefab placement — perfect for procedural level generation. |
-| [![Neon Imperium](https://img.shields.io/badge/Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Open-source website for Starve Neon — HTML/CSS/JS, feel free to peek and reuse. |
+| [![World Generator](https://img.shields.io/badge/World%20Generator-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/WorldGenerator) | Rule-based prefab placement - perfect for procedural level generation. |
+| [![Neon Imperium](https://img.shields.io/badge/Neon%20Imperium-2d2f48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeonShadowYT/NeonImperium) | Open-source website for Starve Neon - HTML/CSS/JS, feel free to peek and reuse. |
 
 </div>
 
