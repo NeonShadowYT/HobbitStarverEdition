@@ -24,9 +24,14 @@ The build integrates the **[Community Extended Edition](https://github.com/hobbi
 
 On top of that, I've added my own fixes, sound and localization improvements, as well as the high-quality **[Retexture](https://www.mediafire.com/folder/zpbfsei529ov2/The+Hobbit+Remastered+(PC))** by fffathur (with broken textures fixed).
 
+
+<div align="center">
+  
 <a href="https://discord.gg/Wh9EaFmdfa">
   <img width="700" alt="Discord banner" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f"/>
 </a>
+
+</div>
 
 **My contributions:**
 - Helped Extended Edition devs fix the crash during 🍖 Roast Mutton, and the dialogue with Thorin in ⛰️ Over Hill and Under Hill
