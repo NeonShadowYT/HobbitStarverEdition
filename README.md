@@ -194,7 +194,9 @@
 ## 🎮 Starve Neon - Моя игра
 
 <div align="center">
-  <img src="https://img.itch.zone/aW1nLzI2MTc1MTAzLmdpZg==/original/ZSdakp.gif" width="100%" alt="Starve Neon Banner">
+  
+  [![Starve Neon](https://raw.githubusercontent.com/NeonShadowYT/NeonShadowYT/main/images/banner-development.gif)](https://neonshadowyt.github.io/NeonImperium/starve-neon)
+  
 </div>
 
 Я **Neon Shadow**, независимый разработчик из России. Помимо Hobbit Starver Edition, я создаю собственный многопользовательский выживач в стиле *Escape from Tarkov*, *Rust* и *ARC Riders*, но с яркой стилизованной графикой в духе *Starve.io*.  
