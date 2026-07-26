@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺%20Русский-2d2f48?style=for-the-badge&logoColor=white" alt="Русский"></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-2d2f48?style=for-the-badge&logoColor=white" alt="English"></a>
+</div>
+
 # 🧙 ХОББИТ 2003 - Starver Edition
 
 <div align="center">
