@@ -40,7 +40,7 @@ On top of that, I've added my own fixes, sound and localization improvements, as
 - Thoroughly tested the entire game with a focus on "little things" - the build is ready for a comfortable playthrough without major bugs
 
 > [!IMPORTANT]
-> One of the restored quests in 🛢️ Barrels Out of Bond doesn't have full Russian voiceover and localization yet. The community promises to add them in the future — otherwise, the version is fully playable.
+> One of the restored quests in 🛢️ Barrels Out of Bond doesn't have full Russian voiceover and localization yet. The community promises to add them in the future - otherwise, the version is fully playable.
 
 > [!TIP]
 > To keep the game up to date without re-downloading everything each time, use **[GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)**. Add this repo using its URL, hit Fetch Origin to update only changed files.
