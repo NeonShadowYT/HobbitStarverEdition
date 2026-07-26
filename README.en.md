@@ -37,7 +37,7 @@ On top of that, I've added my own fixes, sound and localization improvements, as
 - Helped Extended Edition devs fix the crash during 🍖 Roast Mutton, and the dialogue with Thorin in ⛰️ Over Hill and Under Hill
 - Fixed missing or incorrect audio and text localization
 - Installed and refined the retexture (fixed artifacts and broken textures)
-- Thoroughly tested the entire game with a focus on "little things" — the build is ready for a comfortable playthrough without major bugs
+- Thoroughly tested the entire game with a focus on "little things" - the build is ready for a comfortable playthrough without major bugs
 
 > [!IMPORTANT]
 > One of the restored quests in 🛢️ Barrels Out of Bond doesn't have full Russian voiceover and localization yet. The community promises to add them in the future — otherwise, the version is fully playable.
