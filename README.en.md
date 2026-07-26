@@ -46,11 +46,15 @@ On top of that, I've added my own fixes, sound and localization improvements, as
 > To keep the game up to date without re-downloading everything each time, use **[GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32)**. Add this repo using its URL, hit Fetch Origin to update only changed files.
 > This also works for contributing to development.
 
+<div align="center">
+  
 ## ⭐ Support the Project
 If you enjoyed this build, don't forget to **star** it on GitHub — it helps the project grow and attracts community attention.
 
 [![GitHub stars](https://img.shields.io/github/stars/NeonShadowYT/HobbitStarverEdition?style=for-the-badge&logo=github&color=FFC107)](https://github.com/NeonShadowYT/HobbitStarverEdition/stargazers)
 [![GitHub followers](https://img.shields.io/github/followers/NeonShadowYT?style=for-the-badge&logo=github&label=Follow&color=282c34)](https://github.com/NeonShadowYT)
+
+</div>
 
 ## 🗺️ Changelog
 
