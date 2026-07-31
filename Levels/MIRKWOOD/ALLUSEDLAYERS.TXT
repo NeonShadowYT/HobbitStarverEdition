@@ -1,4 +1,4 @@
-[ Layers : 96 ]
+[ Layers : 95 ]
  { LayerName:s                               }
 // -----------------------------------------
    "BASE LAYER"                             
@@ -99,5 +99,4 @@
    "SPIDERBOSS_SPAWNERS"                    
    "SPIDERBOSS_WALLS_BILBO"                 
    "SPIDERBOSS_WALLS_BOSS"                  
-   "FAKE_HOBBITS"                           
    

@@ -1,4 +1,4 @@
-[ Layers : 76 ]
+[ Layers : 75 ]
  { LayerName:s                              }
 // ----------------------------------------
    "RESHETKA_ELF"
@@ -76,5 +76,4 @@
    "CH07_Music"                            
    "CH07_Braziers_Entrance"                
    "CH07_Skybox"                           
-   "FAKE_HOBBITS"
    

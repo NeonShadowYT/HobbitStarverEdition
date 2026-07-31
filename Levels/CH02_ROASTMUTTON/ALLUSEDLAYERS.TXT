@@ -1,4 +1,4 @@
-[ Layers : 106 ]
+[ Layers : 105 ]
  { LayerName:s                         }
 // -----------------------------------
    "AREA1_DWARF"                      
@@ -109,5 +109,4 @@
    "OCCLUDERS_AREA1"                  
    "OCCLUDERS_AREA2"                  
    "OCCLUDERS_AREA4"                  
-   "FAKE_HOBBITS"                     
    

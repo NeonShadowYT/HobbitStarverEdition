@@ -1,4 +1,4 @@
-[ Layers : 33 ]
+[ Layers : 32 ]
  { LayerName:s                               }
 // -----------------------------------------
    "Mirk_GlobalObject"                      
@@ -33,5 +33,4 @@
    "Mirk_Audio_Emitters"                    
    ""                                       
    "Cine01_Corwin"                          
-   "FAKE_HOBBITS"                           
    

@@ -1,2 +1,0 @@
-kingjoyer=0
-multiplayer=1

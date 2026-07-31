@@ -1,4 +1,4 @@
-[ Layers : 111 ]
+[ Layers : 110 ]
  { LayerName:s                         }
 // ----------------------------------- 
    "AREA2_MINE_CART_GOBS"              
@@ -114,5 +114,4 @@
    "VOLUMES"                           
    "WART_CRUMBS"                       
    "DOSKI"                             
-   "FAKE_HOBBITS"                      
 

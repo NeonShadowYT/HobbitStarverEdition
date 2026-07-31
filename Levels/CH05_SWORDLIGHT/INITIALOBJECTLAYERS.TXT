@@ -1,4 +1,4 @@
-[ Layers : 41 ]
+[ Layers : 40 ]
  { LayerName:s                            }
 // --------------------------------------
    "GlobalObject"                        
@@ -41,5 +41,4 @@
    "LadderUp"                            
    "CH05_Music"                          
    "Uggslap"                             
-   "FAKE_HOBBITS"                        
    

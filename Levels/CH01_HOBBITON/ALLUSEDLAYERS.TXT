@@ -1,4 +1,4 @@
-[ Layers : 94 ]
+[ Layers : 93 ]
  { LayerName:s                         }
 // -----------------------------------
    "APPLEORCHARD_GEN"                 
@@ -97,5 +97,4 @@
    "UPPERBAGEND"                      
    "WATERFALL_FX"                     
    "WELL_TRIGGER"                     
-   "FAKE_HOBBITS"                     
    

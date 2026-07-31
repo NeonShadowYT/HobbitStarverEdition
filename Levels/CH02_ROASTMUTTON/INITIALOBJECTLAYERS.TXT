@@ -1,4 +1,4 @@
-[ Layers : 84 ]
+[ Layers : 83 ]
  { LayerName:s                         }
 // -----------------------------------
    "Area1_Dwarf"                      
@@ -84,5 +84,4 @@
    "Area3_Plants"                     
    "Area4_Plants"                     
    "Area4_NPC"                        
-   "FAKE_HOBBITS"                     
    
