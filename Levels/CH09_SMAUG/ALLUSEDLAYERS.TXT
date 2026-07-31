@@ -1,4 +1,4 @@
-[ Layers : 82 ]
+[ Layers : 83 ]
  { LayerName:s                            }
 // --------------------------------------
    "CH09_AUDIO_EMITTERS"                 
@@ -83,4 +83,5 @@
    "CH09_WATERTRIGGER04"                 
    "SMAUG_GLOBALSOBJECT"                 
    "SMAUG_LIGHTS"                        
+   "FAKE_HOBBITS"                        
    

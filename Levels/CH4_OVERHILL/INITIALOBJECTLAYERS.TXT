@@ -1,4 +1,4 @@
-[ Layers : 32 ]
+[ Layers : 33 ]
  { LayerName:s                        }
 // ----------------------------------
    "Base Layer"                      
@@ -33,6 +33,7 @@
    "OH_TArea04-05_BA_PlaySurfaces"   
    "OH_TArea04-05_WF_Instances"
    "VODALOW"
+   "FAKE_HOBBITS"                    
   
   
    

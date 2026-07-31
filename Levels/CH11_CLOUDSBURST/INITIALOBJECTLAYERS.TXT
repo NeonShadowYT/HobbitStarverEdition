@@ -1,4 +1,4 @@
-[ Layers : 31 ]
+[ Layers : 32 ]
  { LayerName:s                          }
 // ------------------------------------
    "CH11_GanBlockerWall"               
@@ -32,4 +32,5 @@
    "CH11_Triggers"                     
    "CH11_Music"                        
    "CH11_Lights_Channel2"              
+   "FAKE_HOBBITS"                      
    

@@ -1,4 +1,4 @@
-[ Layers : 131 ]
+[ Layers : 132 ]
  { LayerName:s                              }
 // ----------------------------------------
    "RESHETKA_ELF"
@@ -135,4 +135,5 @@
    "CH07_WATER_GROTTO"                     
    "CH07_WATER_THRONE"                     
    "CH07_WEBS_GROTTO"                      
+   "FAKE_HOBBITS"
    

@@ -1,4 +1,4 @@
-[ Layers : 24 ]
+[ Layers : 25 ]
  { LayerName:s                            }
 // --------------------------------------
    "CH09_Ext_Playsurfaces"               
@@ -25,4 +25,5 @@
    "CH09_Pickups"                        
    "CH09_Music"                          
    "CH09_Audio_Emitters"                 
+   "FAKE_HOBBITS"                        
    

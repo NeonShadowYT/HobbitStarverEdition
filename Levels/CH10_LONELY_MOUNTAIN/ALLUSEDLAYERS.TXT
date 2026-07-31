@@ -1,4 +1,4 @@
-[ Layers : 67 ]
+[ Layers : 68 ]
  { LayerName:s                     }
 // -------------------------------
    "BASE LAYER"                   
@@ -68,4 +68,5 @@
    "LM_WATER_TREASURY"            
    "LM_WATER_TREASURY_OFF"        
    "LVL_LONE_MOUNTAIN_LIGHTS"     
+   "FAKE_HOBBITS"                 
    
