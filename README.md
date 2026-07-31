@@ -22,6 +22,8 @@
 
 В сборку интегрирован [![Extended Edition](https://img.shields.io/badge/%20Extended%20Edition-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-extended-edition) издание от комьюнити, восстанавливающее вырезанный контент: расширенные уровни, боссы, противники, квесты и многое другое. 
 
+А так-же [![Мультиплеер](https://img.shields.io/badge/Мультиплеер-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-synchrony-v3), до 8 игроков. Инструкции в ONLINE.txt
+
 Поверх этого наложены личные исправления, улучшения звука и локализации, а также качественный [![Ретекстур](https://img.shields.io/badge/Ретекстур-2d2f48?style=for-the-badge&logo=mediafire&logoColor=white&)](https://www.mediafire.com/folder/zpbfsei529ov2/The+Hobbit+Remastered+(PC)) от fffathur (с починкой битых текстур).
 
 <div align="center">
@@ -37,9 +39,6 @@
 - Исправлены отсутствующие или некорректные аудио и текст локализации.
 - Установка и доработка ретекстура (устранены артефакты и битые текстуры).
 - Тщательное тестирование всей игры с акцентом на «мелочи» — сборка готова для комфортного прохождения без серьёзных багов.
-
-**Планируется:**
-- Интеграция [![Мультиплеера](https://img.shields.io/badge/Мультиплеера-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-synchrony-v3)
 
 > [!IMPORTANT]
 > Один из восстановленных квестов в 🛢️ Бочки с контрабандой пока не имеет полной русской озвучки и локализации. Сообщество обещает добавить их в будущем - в остальном версия полностью играбельна.
