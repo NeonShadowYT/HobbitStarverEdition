@@ -1,4 +1,4 @@
-[ Layers : 40 ]
+[ Layers : 41 ]
  { LayerName:s                   }
 // -----------------------------
    "Base Layer"                 
@@ -41,4 +41,5 @@
    "LM_Overlay_GearRoom"        
    "LM_Overlay_Treasury"        
    "LM_Skybox"                  
+   "FAKE_HOBBITS"               
    

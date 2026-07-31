@@ -1,4 +1,4 @@
-[ Layers : 24 ]
+[ Layers : 25 ]
  { LayerName:s                  }
 // ----------------------------
    "BagEnd"                    
@@ -25,4 +25,5 @@
    "End_Of_Level"              
    "CH01_Music"                
    "HTown_CP"                  
+   "FAKE_HOBBITS"              
    

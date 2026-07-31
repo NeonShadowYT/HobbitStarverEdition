@@ -1,16 +1,148 @@
-[ AnimList : 4 ]
- { AnimName:s					AnimType:s		YawRate:f	BlendFactor:f	SpeedScalar:f	DistanceScalar:f	AnimRotation:f  NoiseLevel:f  Flags:d}
+[ AnimList : 129 ]
+ { AnimName:s					AnimType:s		            YawRate:f	BlendFactor:f	SpeedScalar:f	DistanceScalar:f	AnimRotation:f  NoiseLevel:f  Flags:d}
 // ---------------------------------------------------------------------------------------------------------------------------------------------------
-"Non_Positioned_Idle"			"IDLE"			0.0			0.0				1.0				1.0					0.0				0.0				0
-"LipSync"	 	                "LIP_SYNC"      0.0			0.0			    1.0				1.0					0.0				0.0				0
-"run_no_weapon"	 	            "RUN"           32.0		0.0			    1.0				1.0					0.0				0.0				0
-"walk_no_weapon"	 	        "WALK"          16.0		0.0			    1.0				1.0					0.0				0.0				0
+"idle_weapon"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"idle_sneak"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"idle_cool_down"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"idle_cool_down_trans_idle"			"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"idle_pumped_up"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"idle_water_no_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"idle_water_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"equip_weapon"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"fidget_look"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"fidget_scratch"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"fidget_yawn"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"fidget_scratch_leg"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"fidget_stretch"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.4				0
+"fidget_sting_one"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.4				0
+"fidget_sting_throw"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.4				0
+"fidget_staff_stretch"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.4				0
+"death_water"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"rope_climb_down"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"rope_climb_up"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"rope_stop_slide"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"rope_slide"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"rope_idle"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"rope_reach"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"rope_reach_idle"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"rope_turn_cw"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"rope_turn_ccw"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"climb_cliff"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"climb_left_cliff"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"climb_right_cliff"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"climb_down_cliff"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"climb_idle_cliff"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"edge_pullup"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"edge_left"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"edge_right"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"edge_idle"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"edge_mount_slip"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"edge_mount_easy"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"edge_mount"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"climb_up_ladder"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"climb_down_ladder"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"slide_down_ladder"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"jump_to_ladder_left"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"jump_to_ladder_right"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"mount_ladder_top"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"ladder_idle"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"ladder_dismount"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"walk_weapon"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"walk_no_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"run_weapon"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"run_no_weapon"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sneak_weapon"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"sneak_no_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"crouch_slide"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"trudge_water_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				3.0				0
+"trudge_water_no_weapon"			"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				3.0				0
+"run_trans_cooldown"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"sneak_backup"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"sneak_strafe_left"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"sneak_strafe_right"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"jump_begin_no_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				3.0				0
+"jump_end_no_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				3.0				0
+"jump_begin_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				3.0				0
+"jump_end_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				3.0				0
+"pole_plant"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"pole_ready"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"pole_slide"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"land_no_weapon"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				3.0				0
+"land_weapon"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				3.0				0
+"land_hard"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				4.0				0
+"land_hard1"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				4.0				0
+"slide_slope"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"slide_flat"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"push_block_into_idle"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"push_block_idle"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"push_block_forward"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"push_block_backward"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"push_block_left"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"push_block_right"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"push_block_flip"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"carry_idle"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"carry_walk"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"combat_ready_idle"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"combat_ready_trans_idle"			"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"combat_ready_stone_idle"			"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"targ_jump"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"block_ground"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"R2L_swing_start"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"L2R_swing"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"L2R_swing_start"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"R2L_swing"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"L2R_spin"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"L2R_spin_idle"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"L2R_spin_charge"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"R2L_swing_start_2_Idle"			"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"L_2_Idle"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"L2R_swing_start_2_Idle"			"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"R_2_Idle"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_jump_strike"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_jump_strike_land"			"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_targ_back"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_targ_forward"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_targ_left"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_targ_right"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_targ_jump_back"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_targ_jump_left"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_targ_jump_right"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_block"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_knock_forward"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"sting_knock_back"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_jump_strike"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_jump_strike_land"			"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_targ_back"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_targ_forward"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_targ_left"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_targ_right"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_targ_jump_back"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_targ_jump_left"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_targ_jump_right"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_block"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_knock_forward"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"staff_knock_back"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"stone_attack"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				2.0				0
+"damage_poison"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"damage_drown"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"mouth_layer"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+"mine_cart_swing"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"mine_cart_idle"				"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				1.0				0
+"head_track"					"SPECIAL"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+
+"Non_Positioned_Idle"				"IDLE"			            0.0			0.25				1.0				1.0					0.0				0.0				0
+
+
 
 [ AnimFileName ]
  { FileName:s }
 // ---------------
   "BilboRM"
 
+[ AnimTransitionTable : 1 ]
+{ CurrentAnim:s				Transition1:s				Transition2:s					NextAnim:s		Flags:d }
+// --------------------------------------------------------------------------------------------------------------------------------------------------
+                 "*"              "*"                   "*"							    "*"             0
 
 /*
 */

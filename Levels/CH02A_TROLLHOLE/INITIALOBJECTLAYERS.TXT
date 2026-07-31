@@ -1,4 +1,4 @@
-[ Layers : 34 ]
+[ Layers : 35 ]
  { LayerName:s                     }
 // -------------------------------
    "TENT"
@@ -36,3 +36,4 @@
            
    "CH02a_Rocks_Trolls"
    "FLOWERS"
+   "FAKE_HOBBITS"

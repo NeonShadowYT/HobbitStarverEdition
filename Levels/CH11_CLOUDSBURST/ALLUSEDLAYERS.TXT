@@ -1,4 +1,4 @@
-[ Layers : 95 ]
+[ Layers : 96 ]
  { LayerName:s                          }
 // ------------------------------------
    "CH11_AUDIO_EMITTERS"               
@@ -99,4 +99,5 @@
    "CH11_VOLUMES"                      
    "CH11_WATER"                        
    "TEMPORARY_LVL_CLOUDBURST_LIGHTS"   
+   "FAKE_HOBBITS"                      
    
