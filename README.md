@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[<img width="50%" alt="Gameplay showcase" src="https://github.com/user-attachments/assets/d02c8aa2-772a-41de-bc9f-2c95044876f5" />]([https://youtu.be/O65o7NI17v0?si=OwaIpoy9eYmWjeRP](https://youtu.be/LFPFVCLXeVY?si=WEM-KgE7tTQ5unRp))
+[<img width="50%" alt="Gameplay showcase" src="https://github.com/user-attachments/assets/d02c8aa2-772a-41de-bc9f-2c95044876f5" />](https://youtu.be/LFPFVCLXeVY?si=G6XxNuhCX3Sr43LA)
 
 </div>
 
