@@ -1,4 +1,7 @@
 <div align="center">
+  
+  [<img width="640" height="360" alt="maxresdefault" src="https://github.com/user-attachments/assets/4fff6222-eaab-4698-8a16-4a7343b0fd34" />](https://www.youtube.com/watch?v=O65o7NI17v0)
+  
   <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺%20Русский-2d2f48?style=for-the-badge&logoColor=white" alt="Русский"></a>
   <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-2d2f48?style=for-the-badge&logoColor=white" alt="English"></a>
 </div>
@@ -22,15 +25,13 @@
 
 В сборку интегрирован [![Extended Edition](https://img.shields.io/badge/%20Extended%20Edition-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-extended-edition) издание от комьюнити, восстанавливающее вырезанный контент: расширенные уровни, боссы, противники, квесты и многое другое. 
 
-А так-же [![Мультиплеер](https://img.shields.io/badge/Мультиплеер-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-synchrony-v3), до 8 игроков. Инструкции в ONLINE.txt
-
 Поверх этого наложены личные исправления, улучшения звука и локализации, а также качественный [![Ретекстур](https://img.shields.io/badge/Ретекстур-2d2f48?style=for-the-badge&logo=mediafire&logoColor=white&)](https://www.mediafire.com/folder/zpbfsei529ov2/The+Hobbit+Remastered+(PC)) от fffathur (с починкой битых текстур).
 
+А так-же [![Мультиплеер](https://img.shields.io/badge/Мультиплеер-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-synchrony-v3) Подключение по Hamachi, Radmin и другим аналогам. Один хост запускает сервер и начинает играть, остальные подключаются. Инструкции в ONLINE.txt
+
 <div align="center">
-  
-<a href="https://discord.gg/Wh9EaFmdfa">
-  <img width="700" alt="Discord banner" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f"/>
-</a>
+
+[<img width="50%" alt="Gameplay showcase" src="https://github.com/user-attachments/assets/d02c8aa2-772a-41de-bc9f-2c95044876f5" />]([https://youtu.be/O65o7NI17v0?si=OwaIpoy9eYmWjeRP](https://youtu.be/LFPFVCLXeVY?si=WEM-KgE7tTQ5unRp))
 
 </div>
 
@@ -48,6 +49,10 @@
 > Это так-же можно использовать для помощи в разработке.
 
 <div align="center">
+
+<a href="https://discord.gg/Wh9EaFmdfa">
+  <img width="700" alt="Discord banner" src="https://github.com/user-attachments/assets/e346271c-95f9-4f28-982a-3b98206df26f"/>
+</a>
   
 ## ⭐ Поддержи проект!
 Если тебе понравилась эта сборка, не забудь **поставить звёздочку** на GitHub - это помогает проекту развиваться и привлекает внимание сообщества. 
