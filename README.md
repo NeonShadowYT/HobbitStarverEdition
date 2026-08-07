@@ -21,7 +21,7 @@
 
 ## 📜 Описание
 
-**Starver Edition** - это улучшенная и дополненная версия игры **«Хоббит» (2003)**, созданная на основе последней официальной русской версии. [![Быстрое скачивание](https://img.shields.io/badge/%20Быстрое%20скачивание-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/NeonShadowYT/HobbitStarverEdition/archive/refs/heads/main.zip)
+**Starver Edition** - это улучшенная и дополненная версия игры **«Хоббит» (2003)**, созданная на основе последней официальной русской версии. [![Быстрое скачивание](https://img.shields.io/badge/%20Быстрое%20скачивание-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/NeonShadowYT/HobbitStarverEdition/releases/download/v1/Hobbit.2003.Starver.Edition.setup.exe)
 
 В сборку интегрирован [![Extended Edition](https://img.shields.io/badge/%20Extended%20Edition-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-extended-edition) издание от комьюнити, восстанавливающее вырезанный контент: расширенные уровни, боссы, противники, квесты и многое другое. 
 
