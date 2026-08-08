@@ -21,7 +21,7 @@
 
 ## 📜 Description
 
-**Starver Edition** is an enhanced and expanded version of the game **"The Hobbit" (2003)**, built upon the latest official Russian release. [![Quick Download](https://img.shields.io/badge/%20Quick%20Download-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/NeonShadowYT/HobbitStarverEdition/archive/refs/heads/main.zip)
+**Starver Edition** is an enhanced and expanded version of the game **"The Hobbit" (2003)**, built upon the latest official Russian release. [![Quick Download](https://img.shields.io/badge/%20Quick%20Download-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/NeonShadowYT/HobbitStarverEdition/releases/download/v1/Hobbit.2003.Starver.Edition.setup.exe)
 
 The pack integrates the [![Extended Edition](https://img.shields.io/badge/%20Extended%20Edition-2d2f48?style=for-the-badge&logo=github&logoColor=white&)](https://github.com/hobbit-kingdom/hobbit-extended-edition) release from the community, which restores cut content: expanded levels, bosses, enemies, quests, and much more.
 
